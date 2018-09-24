@@ -13,7 +13,7 @@ class Sorter {
         return this.array.length; 
     }
     toArray() {
-        return this.array; /
+        return this.array; 
     }
     sort(indices) {
         var sortArray = [];
